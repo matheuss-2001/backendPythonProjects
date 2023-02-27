@@ -3,8 +3,7 @@ import openai
 from chat_model import MessageRequestDTO
 
 
-openai.organization = "org-99M4HAQHS5nfZDbsHlLSt6Nb"
-openai.api_key = "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"
+
 
 
 class ChatGptService:
